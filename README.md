@@ -164,8 +164,9 @@ supabase/
 
 ```bash
 # 1. Clone the repository
-git clone <github.com/Guolinn>
-cd <ecosort>
+git clone
+https://github.com/Guolinn/ecosort.git
+cd ecosort
 
 # 2. Install dependencies
 npm install
