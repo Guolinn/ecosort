@@ -37,8 +37,8 @@ EcoSort flips the behavioral equation by making the _right_ action the _easy_ ac
 
 ## Demo
 
-🎥 **Demo Video**: [Coming Soon]  
-📱 **Live App**: https://ecosort.site
+ **Demo Video**: [Coming Soon]  
+ **Live App**: https://ecosort.site
 
 ---
 
@@ -50,9 +50,9 @@ EcoSort flips the behavioral equation by making the _right_ action the _easy_ ac
 4. **Action** – User chooses to sell, donate, recycle, or discard
 5. **Reward** – Points are awarded based on the eco-friendliness of the choice
 
-## ✨ Core Features
+##  Core Features
 
-### 🔍 AI-Powered Recognition
+###  AI-Powered Recognition
 
 - **Real-time Camera Scanning** - Take photos of items and get instant AI classification
 - **Dual AI Engine** - Supports GPT-4o-mini and Gemini 2.0 Flash
@@ -64,7 +64,7 @@ EcoSort flips the behavioral equation by making the _right_ action the _easy_ ac
   - Clothing (Purple)
   - Electronics (Orange)
 
-### 🎮 Points & Level System
+###  Points & Level System
 
 - **Point Rewards** - Earn points based on disposal method with different multipliers:
   - Clothing: Donate (2x), Trade (1.8x), Discard (1x)
@@ -73,7 +73,7 @@ EcoSort flips the behavioral equation by making the _right_ action the _easy_ ac
   - Hazardous: Specialized Disposal (fixed 20 points)
 - **Level Progression** - Accumulate points to unlock new levels with animated effects
 
-### 🛒 Points Marketplace
+###  Points Marketplace
 
 - **Points-Based Trading** - Buy and sell second-hand items using reward points
 - **Real-time Chat** - Peer-to-peer messaging between buyers and sellers
@@ -86,25 +86,25 @@ EcoSort flips the behavioral equation by making the _right_ action the _easy_ ac
 - **Creative Images** - Use Gemini to generate upcycling concept images
 - **Eco-Friendly Philosophy** - Encourage item reuse and reduce waste
 
-### 📬 Inbox
+###  Inbox
 
 - **System Notifications** - Transaction success, review results, and system messages
 - **Chat History** - Marketplace conversation threads
 
-### 👤 User System
+###  User System
 
 - **Authentication** - Email and password registration/login
 - **Guest Mode** - Try basic features without registration
 - **Personal Stats** - Scan count, points, level, and more
 
-### 🔧 Admin Dashboard
+###  Admin Dashboard
 
 - **User Management** - View and manage registered users
 - **Listing Records** - View all marketplace listings
 - **Scan History** - View all user scan records
 - **Notification Management** - Send system notifications
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category             | Technology                                              |
 | -------------------- | ------------------------------------------------------- |
@@ -153,7 +153,7 @@ supabase/
     └── generate-craft-image/ # Creative image generation
 ```
 
-## 🚀 Local Development
+##  Local Development
 
 ### Requirements
 
@@ -184,7 +184,7 @@ Configure the following secrets in Supabase:
 - `OPENAI_API_KEY` - OpenAI API key (for GPT-4o-mini)
 - `GEMINI_API_KEY` - Google AI API key (for Gemini 2.0 Flash)
 
-## 📱 User Guide
+##  User Guide
 
 1. **Scan Items** - Tap the scan button on the home page and photograph the item
 2. **View Results** - AI identifies the item and shows classification with disposal suggestions
@@ -192,14 +192,14 @@ Configure the following secrets in Supabase:
 4. **Trade in Marketplace** - Browse or list items, trade using points
 5. **Check Inbox** - View transaction notifications and chat messages
 
-## 🎨 Design Style
+##  Design Style
 
 - **Theme** - Natural green palette reflecting eco-friendly values
 - **Dark Mode** - Supported with deep green gradient background
 - **Mobile-First** - Compact layout optimized for mobile devices
 - **Gamification** - Level badges, point animations, and game-like elements
 
-## 📄 License
+##  License
 
 This project is for learning and demonstration purposes only.
 
