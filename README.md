@@ -37,7 +37,7 @@ EcoSort flips the behavioral equation by making the _right_ action the _easy_ ac
 
 ## Demo
 
- **Demo Video**: [Coming Soon]  
+ **Demo Video**: https://youtu.be/OIIo9TIyrk4
  **Live App**: https://ecosort.site
 
 ---
