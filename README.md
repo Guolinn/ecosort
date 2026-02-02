@@ -200,6 +200,14 @@ Configure the following secrets in Supabase:
 - **Mobile-First** - Compact layout optimized for mobile devices
 - **Gamification** - Level badges, point animations, and game-like elements
 
+### Accessibility & Inclusive Design
+
+Ecosort is designed to minimize cognitive and physical barriers at the moment of disposal.
+
+The interface uses large touch targets, clear visual cues, and a single primary action to reduce decision fatigue. Step-by-step guidance removes the need for users to understand complex sorting rules, making the system usable for people of different ages, language backgrounds, and levels of technical familiarity.
+
+By focusing on low cognitive load and immediate feedback, Ecosort treats accessibility as a core design principle rather than an afterthought.
+
 ##  License
 
 This project is for learning and demonstration purposes only.
